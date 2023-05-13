@@ -18,7 +18,7 @@ const MetaCreatorSlider = () => {
             <div >
                 <div className="flex items-center mx-auto justify-center  sm:py-8 ">
                     {/* Carousel for desktop and large size devices */}
-                    <CarouselProvider className="lg:block hidden" naturalSlideWidth={100} isIntrinsicHeight={true} totalSlides={5} visibleSlides={3} step={1} infinite={true}>
+                    <CarouselProvider className="lg:block hidden" naturalSlideWidth={100} isIntrinsicHeight={true} totalSlides={5} visibleSlides={4} step={1} infinite={true}>
                         <div className="w-full relative flex items-center justify-center">
                             <ButtonBack role="button" aria-label="slide backward" className="absolute z-30 left-0 ml-8  cursor-pointer" id="prev">
                                 <svg width={58} height={40} viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
