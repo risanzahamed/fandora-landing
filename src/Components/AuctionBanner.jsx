@@ -135,7 +135,7 @@ const AuctionBanner = () => {
 
                         <div className="relative p-4 ">
                             <div className="absolute  inset-0 lg:mt-0 mt-14 lg:h-full max-h-full lg:block">
-                                <img src={actionPpBg} alt="" />
+                                <img className="pb-48 h-[550px]" src={actionPpBg} alt="" />
                             </div>
 
                             <div className="relative pb-14">
