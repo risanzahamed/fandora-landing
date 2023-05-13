@@ -44,9 +44,10 @@ const Header = () => {
                         <div className="flex-2">
                             <ul className="justify-center p-6 text-white font-semibold items-center space-y-8 lg:flex lg:space-x-6 lg:space-y-0">
                                 <Link  cursor-pointer="false" className='p-3 ' to='/'><li>Home</li></Link>
-                                <Link  cursor-pointer="true" className='p-3' to='/products'><li>About Us</li></Link>
-                                <Link  cursor-pointer="true" className='p-3' to='/blog'><li>Features</li></Link>
-                                <Link  cursor-pointer="true" className='p-3' to='/blog'><li>Solution</li></Link>
+                                <Link  cursor-pointer="true" className='p-3' to='/auction'><li>Auction</li></Link>
+                                <Link  cursor-pointer="true" className='p-3' to='/feature'><li>Key Features</li></Link>
+                                <Link  cursor-pointer="true" className='p-3' to='/pre-nft-rights'><li>Pre-NFT Rights</li></Link>
+                                <Link  cursor-pointer="true" className='p-3' to='/marketplace'><li>Marketplace</li></Link>
                             </ul>
                         </div>
                     </div>
