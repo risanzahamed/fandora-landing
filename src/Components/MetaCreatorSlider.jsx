@@ -48,6 +48,21 @@ const MetaCreatorSlider = () => {
                                                     </div>
                                                 </div>
 
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </Slide>
                                         <Slide index={1}>
@@ -67,6 +82,21 @@ const MetaCreatorSlider = () => {
 
                                                     <div>
                                                         <img src={logoCr} alt="" srcSet="" />
+                                                    </div>
+                                                </div>
+
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
                                                     </div>
                                                 </div>
 
@@ -92,6 +122,22 @@ const MetaCreatorSlider = () => {
                                                     </div>
                                                 </div>
 
+
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </Slide>
                                         <Slide index={3}>
@@ -114,6 +160,21 @@ const MetaCreatorSlider = () => {
                                                     </div>
                                                 </div>
 
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </Slide>
                                         <Slide index={4}>
@@ -133,6 +194,21 @@ const MetaCreatorSlider = () => {
 
                                                     <div>
                                                         <img src={logoCr} alt="" srcSet="" />
+                                                    </div>
+                                                </div>
+
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
                                                     </div>
                                                 </div>
 
@@ -180,6 +256,21 @@ const MetaCreatorSlider = () => {
                                                     </div>
                                                 </div>
 
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </Slide>
                                         <Slide index={1}>
@@ -199,6 +290,21 @@ const MetaCreatorSlider = () => {
 
                                                     <div>
                                                         <img src={logoCr} alt="" srcSet="" />
+                                                    </div>
+                                                </div>
+
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
                                                     </div>
                                                 </div>
 
@@ -224,6 +330,21 @@ const MetaCreatorSlider = () => {
                                                     </div>
                                                 </div>
 
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </Slide>
                                         <Slide index={3}>
@@ -246,6 +367,21 @@ const MetaCreatorSlider = () => {
                                                     </div>
                                                 </div>
 
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </Slide>
                                         <Slide index={4}>
@@ -265,6 +401,21 @@ const MetaCreatorSlider = () => {
 
                                                     <div>
                                                         <img src={logoCr} alt="" srcSet="" />
+                                                    </div>
+                                                </div>
+
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
                                                     </div>
                                                 </div>
 
@@ -312,6 +463,21 @@ const MetaCreatorSlider = () => {
                                                     </div>
                                                 </div>
 
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </Slide>
                                         <Slide index={1}>
@@ -331,6 +497,21 @@ const MetaCreatorSlider = () => {
 
                                                     <div>
                                                         <img src={logoCr} alt="" srcSet="" />
+                                                    </div>
+                                                </div>
+
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
                                                     </div>
                                                 </div>
 
@@ -356,6 +537,21 @@ const MetaCreatorSlider = () => {
                                                     </div>
                                                 </div>
 
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </Slide>
                                         <Slide index={3}>
@@ -378,6 +574,21 @@ const MetaCreatorSlider = () => {
                                                     </div>
                                                 </div>
 
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </Slide>
                                         <Slide index={4}>
@@ -397,6 +608,21 @@ const MetaCreatorSlider = () => {
 
                                                     <div>
                                                         <img src={logoCr} alt="" srcSet="" />
+                                                    </div>
+                                                </div>
+
+                                                <div className='flex justify-between mt-8'>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>Auction</h2>
+                                                        <h2 className='text-[#52C1B9] text-[14px]'>3h : 28m: 56s</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>1.55 ETH</h2>
+                                                        <h2 className='text-white text-[14px]'> floor price</h2>
+                                                    </div>
+                                                    <div>
+                                                        <h2 className='text-xl text-white'>$5623.1</h2>
+                                                        <h2 className='text-[#24FF00] text-[14px]'>+8.9%</h2>
                                                     </div>
                                                 </div>
 
