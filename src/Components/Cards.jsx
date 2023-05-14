@@ -14,11 +14,11 @@ const Cards = () => {
             <p className="text-center text-[18px] font-normal  lg:max-w-full max-w-sm pb-14 mx-auto lg:text-[25px] text-white">We take care of everything so the artists can focus on what they do best. <span className="font-semibold">Create art.</span></p>
 
 
-            <div>
+            <div >
                 <section className="py-10 sm:py-16 lg:py-24">
                     <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
 
-                        <div className="grid max-w-xl grid-cols-1 mx-auto mt-8 text-center lg:max-w-full sm:mt-12 lg:mt-20 lg:grid-cols-3 gap-x-6 xl:gap-x-12 gap-y-6">
+                        <div className="grid max-w-xl grid-cols-1 mx-auto mt-8 text-center lg:max-w-full sm:mt-12 lg:mt-20 lg:grid-cols-3 gap-2  gap-y-6">
                             <div className="lg:w-full mx-auto w-[400px] bg-[#222125] rounded-[50px] shadow">
                                 <div className="px-8  py-12">
                                     <div className="  mx-auto">
@@ -60,7 +60,7 @@ const Cards = () => {
 
 
                         </div>
-                        <div className="grid max-w-xl grid-cols-1 mx-auto mt-8 text-center  lg:max-w-[800px] sm:mt-12 lg:mt-28 lg:grid-cols-2 gap-x-6 xl:gap-x-12 gap-y-6">
+                        <div className="grid max-w-xl grid-cols-1 mx-auto mt-8 text-center  lg:max-w-[800px] sm:mt-12 lg:mt-28 lg:grid-cols-2 gap-6  gap-y-6">
                             <div className="lg:mt-0 mt-14 bg-[#222125] mx-auto w-[400px] rounded-[50px] shadow">
                                 <div className="px-8  py-12">
                                     <div className="  mx-auto">
@@ -78,7 +78,7 @@ const Cards = () => {
                             <div className=" bg-[#222125] mx-auto w-[400px] lg:mt-0 mt-14 rounded-[50px] shadow">
                                 <div className="px-8  py-12">
 
-                                <div className=" lg:hidden block mx-auto">
+                                    <div className=" lg:hidden block mx-auto">
                                         <img className=" mx-auto -mt-28  " src={shopping} alt="" />
                                     </div>
 
@@ -96,6 +96,8 @@ const Cards = () => {
                 </section>
 
             </div>
+
+
         </div>
     );
 };
