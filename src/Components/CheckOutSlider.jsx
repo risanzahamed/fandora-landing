@@ -6,7 +6,7 @@ const CheckOutSlider = () => {
     return (
         <div>
             <div>
-                <h2 className=" text-[80px] font-bold text-center uppercase pt-48  text-transparent  bg-clip-text bg-gradient-to-r from-[#6143F3]  to-[#15E8BA]">if you liked this, check out</h2>
+                <h2 className=" lg:text-[80px] text-[40px] font-bold text-center uppercase lg:p-0 p-10 lg:pt-48  text-transparent  bg-clip-text bg-gradient-to-r from-[#6143F3]  to-[#15E8BA]">if you liked this, check out</h2>
 
                 <div >
                     <div className="flex items-center mx-auto justify-center  sm:py-8 ">

@@ -13,7 +13,7 @@ const Footer = () => {
 
                     <div className="lg:flex block items-center justify-between">
                         <img className="lg:block hidden" src={logo} alt="" />
-                        <img className="block lg:hidden items-center justify-center content-center pl-40 pb-6 pt-6" src={footerLogo} alt="" />
+                        <img className="block lg:hidden items-center justify-center content-center pl-48 pb-6 pt-6" src={footerLogo} alt="" />
 
                         <ul className=" lg:flex block  justify-between ">
 
