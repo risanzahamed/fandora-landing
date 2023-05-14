@@ -164,7 +164,7 @@ const CheckOutSlider = () => {
                         </CarouselProvider>
 
                         {/* Carousel for mobile and Small size Devices */}
-                        <CarouselProvider className="block md:hidden " naturalSlideWidth={100} isIntrinsicHeight={true} totalSlides={5} visibleSlides={1} step={1} infinite={true}>
+                        <CarouselProvider className="block md:hidden " naturalSlideWidth={100} isIntrinsicHeight={true} totalSlides={3} visibleSlides={1} step={1} infinite={true}>
                             <div className="w-full relative flex items-center justify-center">
                                 <ButtonBack role="button" aria-label="slide backward" className="absolute z-30 left-0 ml-8 " id="prev">
                                     <svg width={58} height={20} viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">

@@ -170,7 +170,7 @@ data-aos="fade-left" data-aos-duration="1100"
                         </div>
                         <div data-aos="zoom-in" className="relative p-4 ">
                             <div className="absolute  inset-0 lg:mt-0 mt-14 lg:h-full max-h-full lg:block">
-                                <img className="pb-48  h-[550px]" src={listing} alt="" />
+                                <img className="pb-48 h-[600px] lg:h-[550px]" src={listing} alt="" />
                             </div>
                             <div className="relative pb-14">
                                 <h1 className="text-white pt-24 lg:pt-0 font-bold font text-[30px]">Listings</h1>
