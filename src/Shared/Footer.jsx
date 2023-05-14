@@ -13,7 +13,9 @@ const Footer = () => {
 
                     <div className="lg:flex block items-center justify-between">
                         <img className="lg:block hidden" src={logo} alt="" />
-                        <img className="block lg:hidden items-center justify-center content-center pl-48 pb-6 pt-6" src={footerLogo} alt="" />
+                        <div className="flex items-center justify-center content-center">
+                            <img className="block lg:hidden items-center justify-center content-center pb-6 pt-6" src={footerLogo} alt="" />
+                        </div>
 
                         <ul className=" lg:flex block  justify-between ">
 
@@ -91,13 +93,13 @@ const Footer = () => {
 
 
                         <div>
-                            
+
                             <p className="text-base text-center lg:text-left lg:pt-0 pt-6 lg:ml-20 font-medium text-[#fefefe65] transition-all duration-200 hover:text-opacity-80 focus:text-opacity-80">Fandora 1364019 B.C Ltd C/o Empowered Startups 744 W Hastings St #420, Vancouver, BC V6C 1A5, Canada</p>
                         </div>
                     </div>
 
 
-                  
+
 
 
                 </div>
