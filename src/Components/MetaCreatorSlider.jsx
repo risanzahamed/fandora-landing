@@ -11,7 +11,7 @@ import logoCr from "../../src/assets/Logo_Crypto.png"
 const MetaCreatorSlider = () => {
     return (
         <div>
-            <h2 data-aos="zoom-in" className=" lg:text-[80px] text-[50px] font-bold text-center uppercase pt-24  text-transparent  bg-clip-text bg-gradient-to-r from-[#6143F3]  to-[#15E8BA]">MORE FROM THIS CREATOR</h2>
+            <h2 data-aos="zoom-in" className=" lg:text-[80px] text-[40px] font-bold text-center uppercase lg:pt-24  text-transparent  bg-clip-text bg-gradient-to-r from-[#6143F3]  to-[#15E8BA]">MORE FROM THIS CREATOR</h2>
 
             <h2 data-aos="zoom-in" data-aos-duration="900" className="text-center pb-10 text-3xl text-[#38A1BB] mt-4">Metaverse  Avataars</h2>
 

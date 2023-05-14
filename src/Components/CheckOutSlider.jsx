@@ -6,7 +6,7 @@ const CheckOutSlider = () => {
     return (
         <div>
             <div>
-                <h2 className=" lg:text-[80px] text-[40px] font-bold text-center uppercase lg:p-0 p-10 lg:pt-24 lg:pb-24  text-transparent  bg-clip-text bg-gradient-to-r from-[#6143F3]  to-[#15E8BA]">if you liked this, check out</h2>
+                <h2 className=" lg:text-[80px] text-[35px] font-bold text-center uppercase lg:p-0 pt-14 pb-14 lg:pt-24 lg:pb-24  text-transparent  bg-clip-text bg-gradient-to-r from-[#6143F3]  to-[#15E8BA]">if you liked this, check out</h2>
 
                 <div data-aos="zoom-in" data-aos-duration="1300">
                     <div className="flex items-center mx-auto justify-center  sm:py-8 ">
@@ -247,7 +247,7 @@ const CheckOutSlider = () => {
 
                     <button
 
-                        className="btn  mx-auto ml-14 text-[14px] content-center text-center px-8 font font-normal rounded-md  uppercase py-3 bg-[#080710] border-2 border-[#52C1B9] text-white ">SEE MORE
+                        className="btn  mx-auto  text-[14px] content-center text-center px-8 font font-normal rounded-md  uppercase py-3 bg-[#080710] border-2 border-[#52C1B9] text-white ">SEE MORE
 
                     </button>
                 </div>

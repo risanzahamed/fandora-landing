@@ -123,10 +123,10 @@ data-aos="fade-left" data-aos-duration="1100"
 
 
                             <div data-aos="fade-left" data-aos-duration="1600" className="flex W-[140px] lg:mb-14 lg:ml-6">
-                                <img src={twitterNo} alt="" />
-                                <img src={linkedinNo} alt="" />
-                                <img src={instaNo} alt="" />
-                                <img src={discordNo} alt="" />
+                                <img className="w-[60px] lg:w-full lg:h-full h-[30px]" src={twitterNo} alt="" />
+                                <img className="w-[60px] lg:w-full lg:h-full h-[30px]" src={linkedinNo} alt="" />
+                                <img className="w-[60px] lg:w-full lg:h-full h-[30px]" src={instaNo} alt="" />
+                                <img className="w-[60px] lg:w-full lg:h-full h-[30px]" src={discordNo} alt="" />
                             </div>
                         </div>
 
@@ -170,10 +170,10 @@ data-aos="fade-left" data-aos-duration="1100"
                         </div>
                         <div data-aos="zoom-in" className="relative p-4 ">
                             <div className="absolute  inset-0 lg:mt-0 mt-14 lg:h-full max-h-full lg:block">
-                                <img className="pb-48 h-[550px]" src={listing} alt="" />
+                                <img className="pb-48  h-[550px]" src={listing} alt="" />
                             </div>
                             <div className="relative pb-14">
-                                <h1 className="text-white  font-bold font text-[30px]">Listings</h1>
+                                <h1 className="text-white pt-24 lg:pt-0 font-bold font text-[30px]">Listings</h1>
                                 <hr className=" mt-4 border-gray-700" />
                                 <div className="flex justify-between mt-5">
                                     <h1 className="text-white font font-normal mb-2 text-[14px]">User Details</h1>
