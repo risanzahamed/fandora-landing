@@ -6,9 +6,9 @@ const CheckOutSlider = () => {
     return (
         <div>
             <div>
-                <h2 className=" lg:text-[80px] text-[40px] font-bold text-center uppercase lg:p-0 p-10 lg:pt-48  text-transparent  bg-clip-text bg-gradient-to-r from-[#6143F3]  to-[#15E8BA]">if you liked this, check out</h2>
+                <h2 className=" lg:text-[80px] text-[40px] font-bold text-center uppercase lg:p-0 p-10 lg:pt-24 lg:pb-24  text-transparent  bg-clip-text bg-gradient-to-r from-[#6143F3]  to-[#15E8BA]">if you liked this, check out</h2>
 
-                <div >
+                <div data-aos="zoom-in" data-aos-duration="1300">
                     <div className="flex items-center mx-auto justify-center  sm:py-8 ">
                         {/* Carousel for desktop and large size devices */}
                         <CarouselProvider className="lg:block hidden" naturalSlideWidth={100} isIntrinsicHeight={true} totalSlides={3} visibleSlides={3} step={1} infinite={true}>
