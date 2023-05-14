@@ -19,7 +19,7 @@ const Cards = () => {
                     <div className="px-4 mx-auto  lg:max-w-7xl sm:px-6 lg:px-8">
 
                         <div className="grid max-w-xl grid-cols-1 mx-auto mt-8 text-center lg:max-w-full sm:mt-12 lg:mt-20 lg:grid-cols-3 gap-2  gap-y-6">
-                            <div data-aos="zoom-in" data-aos-duration="1100" className="lg:w-full mx-auto lg:w-[400px] w-[350px] bg-[#222125] rounded-[50px] shadow">
+                            <div data-aos="zoom-in" data-aos-duration="1100" className=" mx-auto lg:w-[400px] w-[350px] bg-[#222125] rounded-[50px] shadow">
                                 <div className="px-8  py-12">
                                     <div className="  mx-auto">
                                         <img className=" mx-auto -mt-28  " src={medal} alt="" />
