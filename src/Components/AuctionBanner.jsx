@@ -154,13 +154,13 @@ const AuctionBanner = () => {
                                 <div className="flex pb-14 mt-12">
                                     <button
 
-                                        className="btn rounded-full lg:pr-14 lg:text-[14px] content-center text-center lg:pl-0 pl-4 pr-4 lg:px-8 font  uppercase py-3 bg-[#080710] font-bold  text-white bg-gradient-to-l  from-[#4e2fe8] to-[#38A1BB] ">BUY NOW
+                                        className="btn rounded-full lg:pr-14 lg:text-[14px] content-center text-center lg:pl-14 pl-4 pr-4 lg:px-8 font  uppercase py-3 bg-[#080710] font-bold  text-white bg-gradient-to-l  from-[#4e2fe8] to-[#38A1BB] ">BUY NOW
 
                                     </button>
 
                                     <button
 
-                                        className="btn ml-14 lg:text-[14px] content-center text-center lg:pl-0 pl-4 pr-4 lg:px-8 font font-normal rounded-md  uppercase py-3 bg-[#080710] border-2 border-[#52C1B9] text-white ">MAKE AN OFFER
+                                        className="btn ml-14 lg:text-[14px] content-center text-center lg:pl-10 pl-4 pr-4 lg:px-8 font font-normal rounded-md  uppercase py-3 bg-[#080710] border-2 border-[#52C1B9] text-white ">MAKE AN OFFER
 
                                     </button>
                                 </div>
