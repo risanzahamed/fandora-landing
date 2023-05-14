@@ -103,24 +103,26 @@ const AuctionBanner = () => {
 
 
                     <div className="lg:max-w-[500px] ">
-                        <div className="flex">
-                            <h1 className=" text-[20px]  lg:text-left text-center font-normal font uppercase leading-tight text-white sm:text-4xl lg:text-[20px] lg:leading-tight">Owned by <span className="font-bold text-[#52C1B9]">PSG</span></h1>
+                        <div className="flex justify-between">
+                            <h1 className=" text-[14px] mt-4  text-left font-normal font uppercase leading-tight text-white sm:text-lg lg:text-[20px] lg:leading-tight">Owned by <span className="font-bold text-[#52C1B9]">PSG</span></h1>
 
                             <button
 
-                                className="btn ml-14 lg:mb-8 lg:-mt-3  text-[14px] content-center text-center px-8 font font-normal rounded-md  uppercase py-3 bg-[#080710] border-2 border-[#52C1B9] text-white ">Mark as Favourite
+                                className="btn lg:ml-14 mb-8 lg:mt-3  text-[14px] content-center text-center px-8 font font-normal rounded-md  uppercase py-3 bg-[#080710] border-2 border-[#52C1B9] text-white ">Mark as Favourite
 
                             </button>
 
-                            <img className="w-[18.75px] h-[20.83px] lg:ml-14 rounded-md" src={share} alt="" />
+                            <img className="w-[18.75px] h-[20.83px] lg:ml-14 mt-4  rounded-md" src={share} alt="" />
                         </div>
+                        <h2 className="text-white text-2xl lg:text-4xl font-semibold mb-4">Lionel Messi: The GOAT</h2>
                         <div className="flex">
                             <div>
-                                <h2 className=" lg:text-left text-center text-2xl font-bold leading-tight text-[#52C1B9] sm:text-4xl lg:text-xl font lg:leading-tight">ChromieMIX #7615</h2>
+                                
+                                <h2 className=" text-left  text-base font-bold leading-tight text-[#52C1B9] sm:text-4xl lg:text-xl font lg:leading-tight">ChromieMIX #7615</h2>
                             </div>
 
 
-                            <div className="flex lg:mb-14 lg:ml-6">
+                            <div className="flex W-[140px] lg:mb-14 lg:ml-6">
                                 <img src={twitterNo} alt="" />
                                 <img src={linkedinNo} alt="" />
                                 <img src={instaNo} alt="" />
@@ -128,18 +130,18 @@ const AuctionBanner = () => {
                             </div>
                         </div>
 
-                        <div className="relative mt-6 mb-4 lg:hidden block">
+                        <div className="relative  lg:hidden block">
                             <img className=" rounded-md" src={contenthero} alt="" />
                         </div>
 
 
                         <div className="relative p-4 ">
                             <div className="absolute  inset-0 lg:mt-0 mt-14 lg:h-full max-h-full lg:block">
-                                <img className="pb-48 h-[550px]" src={actionPpBg} alt="" />
+                                <img className="pb-48  h-[550px]" src={actionPpBg} alt="" />
                             </div>
 
                             <div className="relative pb-14">
-                                <h1 className="text-white pt-10 font-bold text-[14px]">Auction Price</h1>
+                                <h1 className="text-white lg:pt-10 pt-24 font-bold text-[14px]">Auction Price</h1>
                                 <div className="flex mt-8 ">
                                     <img className="w-[24px] lg:mr-4  h-[24px]" src={clock} alt="" srcSet="" />
                                     <h1 className="text-white font font-normal mb-2 text-[18px]">Sale ends 25 December 2022 at 1:57 am GMT+5:30</h1>
@@ -149,16 +151,16 @@ const AuctionBanner = () => {
                                 <h1 className="text-white font-bold mt-6 text-[30px]">15.89 ETH <span className="text-[16px] font-normal">$111,111.11</span></h1>
 
 
-                                <div className="flex  mt-12">
+                                <div className="flex pb-14 mt-12">
                                     <button
 
-                                        className="btn rounded-full pr-14 text-[14px] content-center text-center px-8 font  uppercase py-3 bg-[#080710] font-bold  text-white bg-gradient-to-l  from-[#4e2fe8] to-[#38A1BB] ">BUY NOW
+                                        className="btn rounded-full lg:pr-14 lg:text-[14px] content-center text-center lg:pl-0 pl-4 pr-4 lg:px-8 font  uppercase py-3 bg-[#080710] font-bold  text-white bg-gradient-to-l  from-[#4e2fe8] to-[#38A1BB] ">BUY NOW
 
                                     </button>
 
                                     <button
 
-                                        className="btn ml-14 text-[14px] content-center text-center px-8 font font-normal rounded-md  uppercase py-3 bg-[#080710] border-2 border-[#52C1B9] text-white ">MAKE AN OFFER
+                                        className="btn ml-14 lg:text-[14px] content-center text-center lg:pl-0 pl-4 pr-4 lg:px-8 font font-normal rounded-md  uppercase py-3 bg-[#080710] border-2 border-[#52C1B9] text-white ">MAKE AN OFFER
 
                                     </button>
                                 </div>
