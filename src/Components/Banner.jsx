@@ -5,7 +5,7 @@ import google from "../../src/assets/google.png"
 import linkdin from "../../src/assets/linkdin.png"
 import facebook from "../../src/assets/facebook.png"
 import 'aos/dist/aos.css';
-import AOS from 'aos';
+
 const Banner = () => {
     return (
         <div>
@@ -18,7 +18,7 @@ const Banner = () => {
 
                         
                         <div className=" mx-auto text-center lg:mx-0 lg:max-w-[1178px]  lg:text-left">
-                            <h1 data-aos="zoom-in" className="mt-8 lg:mt-0 uppercase text-white text-4xl leading-snug lg:font-semibold  font-bold  sm:text-5xl xl:text-[140px]">
+                            <h1  className="mt-8 lg:mt-0 uppercase text-white text-4xl leading-snug lg:font-semibold  font-bold  sm:text-5xl xl:text-[140px]">
 
                                 Calling  Creators of the Future
 
