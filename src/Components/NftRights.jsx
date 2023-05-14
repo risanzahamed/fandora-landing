@@ -10,16 +10,16 @@ const NftRights = () => {
             <section className="py-10 bg-[#EFEDF5] rounded-[80px] rounded-b-none sm:py-16 lg:py-24">
                 <div className="px-4 mx-auto  sm:px-6 lg:px-8">
                     <div className=" mx-auto text-center">
-                        <h2 className="text-3xl lg:5t-0 mt-5 uppercase font-bold leading-relaxed text-black sm:text-4xl lg:text-8xl">Welcome to the Future <br />
+                        <h2 data-aos="zoom-in" className="text-3xl lg:5t-0 mt-5 uppercase font-bold leading-relaxed text-black sm:text-4xl lg:text-8xl">Welcome to the Future <br />
                             <span className="text-transparent lg:text-8xl text-4xl bg-clip-text bg-gradient-to-l from-[#15E8BA] via-[#487EBB] to-[#604DBC] mt-4">Pre NFT Rights</span></h2>
-                        <p className="max-w-[1200px] font-medium mt-7 text-lg lg:text-[25px] mx-auto
+                        <p  data-aos="zoom-in" data-aos-duration="1000" className="max-w-[1200px] font-medium mt-7 text-lg lg:text-[25px] mx-auto
                      leading-relaxed text-black">
 
                             Imagine a real life auction, but everything is an NFT. <br />
                             Fandora is the first platform that enables creators to auction or sell their NFT rights to their audience. These pre NFT rights enable your audience to build content around you, pay you, and also share royalties. With Fandora, creators can do all this easily - without all the tech-speak.
                         </p>
 
-                        <p className="font-semibold mt-14 text-[25px] mx-auto
+                        <p  data-aos="zoom-in" data-aos-duration="1200" className="font-semibold mt-14 text-[25px] mx-auto
                      leading-relaxed text-[#438ABC]">These are the different types of NFT rights you can sell</p>
                     </div>
 
@@ -28,7 +28,7 @@ const NftRights = () => {
                             <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
 
                                 <div className="grid max-w-xl grid-cols-1 mx-auto mt-8 text-center lg:max-w-[1000px] sm:mt-12 lg: lg:grid-cols-3 gap-x-6 xl:gap-x-12 gap-y-6">
-                                    <div className="mx-auto lg:w-full w-[300px] bg-[#FAF9FD] pb-5 pt-3 shadow-xl rounded-[50px]">
+                                    <div data-aos="zoom-in" data-aos-duration="1100" className="mx-auto lg:w-full w-[300px] bg-[#FAF9FD] pb-5 pt-3 shadow-xl rounded-[50px]">
                                         <div className="p-5">
                                             <div className="  mx-auto">
                                                 <img className=" mx-auto   " src={talent} alt="" />
@@ -42,7 +42,7 @@ const NftRights = () => {
                                     </div>
 
 
-                                    <div className="mx-auto lg:w-full w-[300px] bg-[#FAF9FD] pb-5 pt-3 shadow-xl rounded-[50px]">
+                                    <div data-aos="zoom-in" data-aos-duration="1300" className="mx-auto lg:w-full w-[300px] bg-[#FAF9FD] pb-5 pt-3 shadow-xl rounded-[50px]">
                                         <div className="p-5">
                                             <div className="  mx-auto">
                                                 <img className=" mx-auto   " src={product} alt="" />
@@ -56,7 +56,7 @@ const NftRights = () => {
                                     </div>
 
 
-                                    <div className="mx-auto lg:w-full w-[300px] bg-[#FAF9FD] pb-5 pt-3 shadow-xl rounded-[50px]">
+                                    <div data-aos="zoom-in" data-aos-duration="1500" className="mx-auto lg:w-full w-[300px] bg-[#FAF9FD] pb-5 pt-3 shadow-xl rounded-[50px]">
                                         <div className="p-5">
                                             <div className="  mx-auto">
                                                 <img className=" mx-auto   " src={online} alt="" />
@@ -71,7 +71,7 @@ const NftRights = () => {
 
                                 </div>
                                 <div className="grid max-w-xl grid-cols-1 mx-auto mt-8 text-center  lg:max-w-[650px] sm:mt-12 lg:mt-14 lg:grid-cols-2 gap-x-6 xl:gap-x-12 gap-y-6">
-                                    <div className="mx-auto lg:w-full w-[300px] bg-[#FAF9FD] pb-5 pt-3 shadow-xl rounded-[50px]">
+                                    <div data-aos="zoom-in" data-aos-duration="1700" className="mx-auto lg:w-full w-[300px] bg-[#FAF9FD] pb-5 pt-3 shadow-xl rounded-[50px]">
                                         <div className="p-5">
                                             <div className="  mx-auto">
                                                 <img className=" mx-auto   " src={digital} alt="" />
@@ -84,7 +84,7 @@ const NftRights = () => {
                                     </div>
 
 
-                                    <div className="mx-auto lg:w-full w-[300px] bg-[#FAF9FD] pb-5 pt-3 shadow-xl rounded-[50px]">
+                                    <div data-aos="zoom-in" data-aos-duration="1900" className="mx-auto lg:w-full w-[300px] bg-[#FAF9FD] pb-5 pt-3 shadow-xl rounded-[50px]">
                                         <div className="p-5">
                                             <div className="  mx-auto">
                                                 <img className=" mx-auto   " src={gaming} alt="" />

@@ -7,7 +7,7 @@ const NftMarket = () => {
             <section className="bg-gradient-to-l  from-[#4e2fe8] via-[#a18eef] to-[#7F9ECF] pb-24 ">
                 <div className="grid grid-cols1 lg:w-[1300px] mx-auto lg:grid-cols-2">
                     <div className=" inset-0">
-                        <img className="object-cover  lg:block hidden " src={creator} alt="" />
+                        <img data-aos="fade-right" className="object-cover  lg:block hidden " src={creator} alt="" />
                         <p className="text-xl text-center pt-14 lg:hidden block  uppercase text-white pb-4">NFT rights Marketplace</p>
 
                         <h2 className="text-3xl text-center lg:hidden block font-bold leading-tight text-white sm:text-4xl">Are you a Creator?</h2>
@@ -36,7 +36,7 @@ const NftMarket = () => {
                             <p className="text-xl text-center uppercase text-white pb-4">NFT rights Marketplace</p>
                             <h2 className="text-3xl text-center font-bold leading-tight text-white sm:text-4xl">Are you a WEB3 Pro?</h2>
                         </div>
-                        <img className="object-cover " src={mockup} alt="" />
+                        <img data-aos="fade-right" data-aos-duration="900" className="object-cover " src={mockup} alt="" />
                     </div>
 
                     <div className="flex items-center justify-center px-4 py-10  sm:px-6 lg:px-8 sm:py-16 lg:py-24">
@@ -51,11 +51,11 @@ const NftMarket = () => {
 
 
                     <div className="lg:block hidden inset-0">
-                        <img className="object-cover " src={mockup} alt="" />
+                        <img data-aos="fade-left" data-aos-duration="1100" className="object-cover " src={mockup} alt="" />
                     </div>
                 </div>
 
-                <div className="block content-center justify-center align-middle text-center">
+                <div data-aos="zoom-in"  className="block content-center justify-center align-middle text-center">
                     <h2 className="lg:text-lg mt-4 text-white uppercase text-center">homegrown Marketplace</h2>
                     <h2 className="lg:text-4xl text-2xl font-bold mt-4 text-white text-center">Explore an NFT Marketplace unlike any other</h2>
                     <p className="text-white text-lg text-center mt-4">Our homegrown NFT marketplace allows creators and pre NFT rights holders to create and sell officially licensed NFTs</p>

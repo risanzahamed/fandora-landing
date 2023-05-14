@@ -14,7 +14,7 @@ const JoinConversation = () => {
                                     Make money for everybody.</h2>
                             </div>
 
-                            <img className=" rounded-md" src={image1} alt="" />
+                            <img data-aos="zoom-in"  className=" rounded-md" src={image1} alt="" />
 
                         </div>
 
@@ -42,7 +42,7 @@ const JoinConversation = () => {
                             <h2 className=" lg:text-left text-center text-2xl font-bold leading-tight text-[#538EB6] sm:text-4xl lg:text-4xl lg:leading-tight">Build your custom subscription platform</h2>
 
                             <div className="relative mt-6 mb-4 lg:hidden block">
-                                <img className=" rounded-md" src={image2} alt="" />
+                                <img data-aos="zoom-in" data-aos-duration="1100" className=" rounded-md" src={image2} alt="" />
                             </div>
 
                             <p className="mt-6 text-center lg:text-left text-lg leading-relaxed text-white">Build your custom subscription platform
@@ -57,7 +57,7 @@ const JoinConversation = () => {
                         </div>
 
                         <div className="relative lg:block hidden">
-                            <img className=" rounded-md" src={image2} alt="" />
+                            <img data-aos="zoom-in" data-aos-duration="1100" className=" rounded-md" src={image2} alt="" />
                         </div>
                     </div>
                 </div>

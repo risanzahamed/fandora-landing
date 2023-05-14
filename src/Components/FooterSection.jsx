@@ -6,7 +6,7 @@ const FooterSection = () => {
                 <section className=" mx-auto z-0  max-w-[1300px]  rounded-3xl bg-white ">
                     <div className=" z-0 mx-auto">
                         <div className="grid align-middle  grid-cols-1 md:grid-cols-2 md:gap-x-16 lg:gap-x-24 gap-y-10">
-                            <div className="lg:max-w-[500px] px-[30px] py-[45px] lg:px-[84px] lg:py-[35px]">
+                            <div data-aos="fade-right" className="lg:max-w-[500px] px-[30px] py-[45px] lg:px-[84px] lg:py-[35px]">
                                 <h1 className="lg:text-[35px] text-3xl  text-center lg:text-left font lg:mt-8 text-[#1B1B1D] font-bold">Discover and sell
                                     your own NFTs</h1>
                                 <p className="mt-6 text-xl text-center lg:text-left leading-relaxed text-black">Join fandora and support outstanding global talent across multiple domains.</p>
@@ -17,7 +17,7 @@ const FooterSection = () => {
                             </div>
                             <div>
 
-                                <div >
+                                <div data-aos="fade-left">
                                     <img className="image lg:w-[800px] lg:pr-4 p-6 lg:-mb-12 lg:-mt-12   -mb-16 -mt-16  " src={footersc} alt="" srcSet="" />
                                 </div>
 

@@ -7,11 +7,11 @@ import shopping from "../../src/assets/Shopping bag.png"
 const Cards = () => {
     return (
         <div>
-            <h2 className="lg:block hidden text-[90px] font-bold text-center uppercase pt-48  text-transparent  bg-clip-text bg-gradient-to-l from-[#15E8BA] via-[#487EBB] to-[#604DBC]">Simplicity <span>{">>>"}</span> Jargon</h2>
+            <h2 data-aos="zoom-in" className="lg:block hidden text-[90px] font-bold text-center uppercase pt-48  text-transparent  bg-clip-text bg-gradient-to-l from-[#15E8BA] via-[#487EBB] to-[#604DBC]">Simplicity <span>{">>>"}</span> Jargon</h2>
 
-            <h2 className="lg:hidden leading-none pb-14 pl-5  text-[55px] font-bold text-left uppercase pt-10  text-transparent  bg-clip-text bg-gradient-to-l from-[#15E8BA] via-[#487EBB] to-[#604DBC]"><span>Simplicity </span><br /><span className="text-left pl-48">{">>>"}</span> <br /> <span className="text-right pl-40">Jargon</span></h2>
+            <h2 data-aos="zoom-in" className="lg:hidden leading-none pb-14 pl-5  text-[55px] font-bold text-left uppercase pt-10  text-transparent  bg-clip-text bg-gradient-to-l from-[#15E8BA] via-[#487EBB] to-[#604DBC]"><span>Simplicity </span><br /><span className="text-left pl-48">{">>>"}</span> <br /> <span className="text-right pl-40">Jargon</span></h2>
 
-            <p className="text-center text-[18px] font-normal  lg:max-w-full max-w-sm pb-14 mx-auto lg:text-[25px] text-white">We take care of everything so the artists can focus on what they do best. <span className="font-semibold">Create art.</span></p>
+            <p data-aos="zoom-in" data-aos-duration="1000" className="text-center text-[18px] font-normal  lg:max-w-full max-w-sm pb-14 mx-auto lg:text-[25px] text-white">We take care of everything so the artists can focus on what they do best. <span className="font-semibold">Create art.</span></p>
 
 
             <div >
@@ -19,7 +19,7 @@ const Cards = () => {
                     <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
 
                         <div className="grid max-w-xl grid-cols-1 mx-auto mt-8 text-center lg:max-w-full sm:mt-12 lg:mt-20 lg:grid-cols-3 gap-2  gap-y-6">
-                            <div className="lg:w-full mx-auto w-[400px] bg-[#222125] rounded-[50px] shadow">
+                            <div data-aos="zoom-in" data-aos-duration="1100" className="lg:w-full mx-auto w-[400px] bg-[#222125] rounded-[50px] shadow">
                                 <div className="px-8  py-12">
                                     <div className="  mx-auto">
                                         <img className=" mx-auto -mt-28  " src={medal} alt="" />
@@ -32,7 +32,7 @@ const Cards = () => {
                             </div>
 
 
-                            <div className="lg:mt-0 mt-14 bg-[#222125] mx-auto w-[400px] rounded-[50px] shadow">
+                            <div data-aos="zoom-in" data-aos-duration="1300" className="lg:mt-0 mt-14 bg-[#222125] mx-auto w-[400px] rounded-[50px] shadow">
                                 <div className="px-8  py-12">
                                     <div className="  mx-auto">
                                         <img className=" mx-auto -mt-28  " src={token} alt="" />
@@ -45,7 +45,7 @@ const Cards = () => {
                             </div>
 
 
-                            <div className="lg:mt-0 mt-14 bg-[#222125] mx-auto w-[400px] rounded-[50px] shadow">
+                            <div data-aos="zoom-in" data-aos-duration="1500" className="lg:mt-0 mt-14 bg-[#222125] mx-auto w-[400px] rounded-[50px] shadow">
                                 <div className="px-8  py-12">
                                     <div className="  mx-auto">
                                         <img className=" mx-auto -mt-28  " src={wallet} alt="" />
@@ -61,7 +61,7 @@ const Cards = () => {
 
                         </div>
                         <div className="grid max-w-xl grid-cols-1 mx-auto mt-8 text-center  lg:max-w-[800px] sm:mt-12 lg:mt-28 lg:grid-cols-2 gap-6  gap-y-6">
-                            <div className="lg:mt-0 mt-14 bg-[#222125] mx-auto w-[400px] rounded-[50px] shadow">
+                            <div data-aos="zoom-in" data-aos-duration="1700" className="lg:mt-0 mt-14 bg-[#222125] mx-auto w-[400px] rounded-[50px] shadow">
                                 <div className="px-8  py-12">
                                     <div className="  mx-auto">
                                         <img className=" mx-auto -mt-28  " src={like} alt="" />
@@ -75,7 +75,7 @@ const Cards = () => {
                             </div>
 
 
-                            <div className=" bg-[#222125] mx-auto w-[400px] lg:mt-0 mt-14 rounded-[50px] shadow">
+                            <div data-aos="zoom-in" data-aos-duration="1900" className=" bg-[#222125] mx-auto w-[400px] lg:mt-0 mt-14 rounded-[50px] shadow">
                                 <div className="px-8  py-12">
 
                                     <div className=" lg:hidden block mx-auto">
